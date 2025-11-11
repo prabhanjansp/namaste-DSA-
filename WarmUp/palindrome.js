@@ -3,7 +3,7 @@
 // to find last digit n%10
 // to remove last digit Math.floor(n/10)
 function isPalindrome(number) {
-  if (x < 0) {
+  if (number < 0) {
     return false; // negative corner case
   }
   let rev = 0;
