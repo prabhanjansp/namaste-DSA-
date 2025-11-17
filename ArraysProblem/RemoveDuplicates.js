@@ -10,5 +10,5 @@ function removeDuplicates(arr) {
   return x + 1;
 }
 
-let res=removeDuplicates([1, 1, 2, 2, 3, 4, 4, 5]); //5
-console.log(res)
+let res = removeDuplicates([1, 1, 2, 2, 3, 4, 4, 5]); //5
+console.log(res);
